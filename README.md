@@ -1,6 +1,6 @@
 # CineList
 
-This repository contains the source code that powers CineList.tv.
+This repository contains the source code that powers [CineList.tv](http://cinelist.tv).
 
 ## Setting Up the Project
 
@@ -9,7 +9,7 @@ This repository contains the source code that powers CineList.tv.
 Clone this repository to a local directory by running the following git command:
 
 ```bash
-git clone git@github.com:BrosinTimeCode/TVTracker.git tvtracker
+git clone git@github.com:BrosinTimeCode/CineList.git cinelist
 ```
 
 Launch IntelliJ and open the new directory you cloned and it will automatically set up the Gradle project for you. To do this manually, `cd` into the root project directory, and run the following command:
