@@ -17,8 +17,8 @@ repositories {
 
 dependencies {
 	implementation("org.springframework.boot:spring-boot-starter-thymeleaf")
-	implementation("org.springframework.boot:sprint-boot-starter-security")
-	implementation("org.thymeleaf.extras:thymeleaf-extras-springsecurity5")
+//	implementation("org.springframework.boot:sprint-boot-starter-security")
+//	implementation("org.thymeleaf.extras:thymeleaf-extras-springsecurity5")
 	implementation("org.springframework.boot:spring-boot-starter-web")
 	runtimeOnly("org.webjars:webjars-locator-core")
 	runtimeOnly("org.webjars.npm:htmx.org:1.9.10")
